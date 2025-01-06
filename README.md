@@ -21,3 +21,18 @@
 
 ## section_5
 
+알파벳, 기호, 숫자를 이용해서 랜덤한 비밀번호를 만듭니다.
+
+## section_6
+
+[로봇 미로][1] 게임을 풀기 위한 알고리즘
+
+## section_7
+
+행맨 게임입니다
+
+## section_8
+
+시저 암호로 encode와 decode하는 프로그램
+
+[1]: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
